@@ -1,0 +1,44 @@
+
+
+.navbar-brand img{
+    height: 10vh;
+    width: 30vw;
+
+
+}
+
+
+.carousel-item{
+    height: 50vh;
+   
+}
+h5{
+    color: rgb(183, 26, 76);
+}
+#categorias{
+    border: 3px solid red;
+}
+
+#busqueda{
+    border: 3px solid rgb(1, 1, 1);
+    margin-left: 101vw;
+}
+.container{
+    margin-top: 5vh;
+}
+main{
+height: 160vh;
+}
+
+footer img{
+    height: 5vw;
+    max-height: 40px;
+}
+footer{
+    background-color: rgb(6, 6, 6);
+
+}
+#COHORT{
+    color: white;
+
+}
