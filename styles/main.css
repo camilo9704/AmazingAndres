@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 .navbar-brand img{
     height: 10vh;
@@ -27,7 +31,7 @@ h5{
     margin-top: 5vh;
 }
 main{
-height: 160vh;
+height: 350vh;
 }
 
 footer img{
@@ -41,4 +45,17 @@ footer{
 #COHORT{
     color: white;
 
+}
+.card{
+    width: 300px;
+    margin-bottom: 5vh;
+}
+.card-img-top{
+    height: 50%;
+}
+#conter{
+margin-top: 20vh;
+}
+footer{
+    height: 10vh;
 }
